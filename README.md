@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cook Country Assessment Project**
 
-- 🌱 I’m currently learning **Spring Boot and React.js**
+- 🌱 I’m currently learning **Spring Boot, React JS and React Native**
 
 - 📫 How to reach me **muyansamxie@gmail.com**
 
