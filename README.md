@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muyan(Sam) Xie</h1>
+<h1 align="center">Hi 👋, I'm Sam Xie</h1>
 <h3 align="center">A passionate developer from UChicago</h3>
 
-- 🔭 I’m currently working on **Cook Country Assessment Project**
+- 🔭 I’m currently working on **The UChicago Book Exchange Project**
 
-- 🌱 I’m currently learning **Spring Boot, React JS and React Native**
+- 🌱 I’m currently learning **Spring Boot, React, Golang, Rust, Ruby on Rails**
 
 - 📫 How to reach me **muyansamxie@gmail.com**
 
