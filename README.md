@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sam Xie</h1>
-<h3 align="center">A passionate developer from The University of Chicago</h3>
+<h3 align="center">Python, Java and Golang developer by day, C++ explorer by night</h3>
 
-- 🔭 I’m currently working on **UChicago Book Exchange Project**
+- 🔭 I’m currently working on **KV Engine from C++ Skiplist**
 
-- 🌱 I’m currently learning **Golang, Rust, and System Design**
+- 🌱 I’m currently learning **Golang, Rust, C++ and System Design**
 
-- 👯 I’m looking to collaborate on **Backend Developments**
+- 👯 I’m looking to collaborate on **Performant Backend Solutions**
 
-- 💬 Ask me about **Spring Boot and React**
+- 💬 Ask me about **C++ or Anything Backend**
 
 - 📫 How to reach me **muyanxiesam@gmail.com**
 
