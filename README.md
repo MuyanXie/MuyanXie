@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Xie</h1>
 <h3 align="center">Python, Java and Golang developer by day, C++ explorer by night</h3>
 
-- 🔭 I’m currently working on **KV Engine from C++ Skiplist**
+- 🔭 I’m currently working on **Scalable File System Solutions**
 
 - 🌱 I’m currently learning **Golang, Rust, C++ and System Design**
 
